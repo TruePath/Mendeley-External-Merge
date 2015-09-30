@@ -1,0 +1,519 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"no",
+				"notification_container"
+			],
+			[
+				"noti",
+				"notification"
+			],
+			[
+				"statu",
+				"status_updater"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"cache",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"coffee",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"mendel",
+				"Set Syntax: Sublime Text Syntax Def (YAML)"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: annote"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"xml",
+				"Snippet: XML Processing Instruction"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"",
+				"Package Control: Discover Packages"
+			],
+			[
+				"perl",
+				"perldoc -lm"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 746.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/TruePath/Projects/plotgame"
+	],
+	"file_history":
+	[
+		"/Users/TruePath/Projects/bibmanage/app/models/bibfile.rb",
+		"/Users/TruePath/Projects/bibmanage/app/views/raw_bibtex_entries/_thead.html.erb",
+		"/Users/TruePath/Projects/bibmanage/app/assets/javascripts/worker.js",
+		"/Users/TruePath/Projects/bibmanage/app/models/concerns/filterable.rb",
+		"/Users/TruePath/Projects/bibmanage/app/views/raw_bibtex_entries/_file_upload.html.erb",
+		"/Users/TruePath/Projects/bibmanage/app/views/raw_bibtex_entries/_container.html.erb",
+		"/Users/TruePath/Projects/bibmanage/app/assets/stylesheets/raw_bibtex_entries.scss",
+		"/Users/TruePath/Projects/bibmanage/app/controllers/raw_bibtex_entries_controller.rb",
+		"/Users/TruePath/Projects/bibmanage/app/helpers/application_helper.rb",
+		"/Users/TruePath/Projects/bibmanage/app/workers/bibtex_upload_worker.rb",
+		"/Users/TruePath/Projects/bibmanage/test/fixtures/users.yml",
+		"/Users/TruePath/Projects/bibmanage/test/fixtures/libraries.yml",
+		"/Users/TruePath/Projects/bibmanage/test/fixtures/authorship_records.yml",
+		"/Users/TruePath/Projects/bibmanage/test/fixtures/raw_bibtex_entries.yml",
+		"/Users/TruePath/Projects/bibmanage/test/models/raw_bibtex_entry_test.rb",
+		"/Users/TruePath/Projects/bibmanage/bibmanage.sublime-project",
+		"/Users/TruePath/Projects/bibmanage/Gemfile",
+		"/Users/TruePath/Projects/bibmanage/app/models/raw_bibtex_entry.rb",
+		"/Users/TruePath/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/TruePath/Projects/bibmanage/config/application.rb",
+		"/Users/TruePath/Projects/bibmanage/test/models/bibfile_test.rb",
+		"/Users/TruePath/Projects/bibmanage/app/views/raw_bibtex_entries/upload.js.erb",
+		"/Users/TruePath/Projects/bibmanage/app/assets/javascripts/application.js",
+		"/Users/TruePath/Projects/bibmanage/app/assets/javascripts/raw_bibtex_entries.js",
+		"/Users/TruePath/Projects/bibmanage/app/views/raw_bibtex_entries/index.js.erb",
+		"/Users/TruePath/Projects/bibmanage/app/workers/bibtex_worker.rb",
+		"/Users/TruePath/Projects/bibmanage/app/views/raw_bibtex_entries/refresh.js.erb",
+		"/Users/TruePath/Projects/bibmanage/app/views/raw_bibtex_entries/_raw_bibtex_entry.html.erb",
+		"/Users/TruePath/Projects/bibmanage/app/views/libraries/index.html.erb",
+		"/Users/TruePath/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/TruePath/Projects/bibmanage/config/routes.rb",
+		"/Users/TruePath/Projects/bibmanage/config/initializers/string_boolean.rb",
+		"/Users/TruePath/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/TruePath/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/TruePath/Projects/bibmanage/app/assets/javascripts/home.coffee",
+		"/Users/TruePath/Library/Application Support/Sublime Text 3/Packages/FileDiffs/FileDiffs.sublime-settings",
+		"/Users/TruePath/Library/Application Support/Sublime Text 3/Packages/User/easy_diff.sublime-settings",
+		"/Users/TruePath/Library/Application Support/Sublime Text 3/Packages/EasyDiff/easy_diff.sublime-settings",
+		"/usr/local/bin/fmdiff",
+		"/Users/TruePath/Projects/bibmanage/app/assets/stylesheets/application.css",
+		"/Users/TruePath/Projects/bibmanage/app/helpers/raw_bibtex_entries_helper.rb",
+		"/Users/TruePath/Google Drive/Sharon/main.tex",
+		"/Users/TruePath/Google Drive/Sharon/main.bbl",
+		"/Users/TruePath/Projects/bibmanage/db/migrate/20150618221923_remove_position_from_raw_bibtex_entries.rb",
+		"/Users/TruePath/Projects/bibmanage/app/models/library.rb",
+		"/Users/TruePath/Projects/bibmanage/db/migrate/20150618040502_add_warnings_and_errors_to_raw_bibtex_entries.rb",
+		"/Users/TruePath/Projects/bibmanage/app/views/worker/status.json.jbuilder",
+		"/Users/TruePath/Projects/bibmanage/app/controllers/worker_controller.rb",
+		"/Users/TruePath/Projects/bibmanage/app/views/references/_form.html.erb",
+		"/Users/TruePath/Projects/bibmanage/app/assets/javascripts/worker.coffee",
+		"/Users/TruePath/Projects/bibmanage/app/views/workers/status.json.jbuilder",
+		"/Users/TruePath/Projects/bibmanage/config/initializers/resque.rb",
+		"/Users/TruePath/Projects/bibmanage/lib/tasks/resque.rake",
+		"/Users/TruePath/Projects/bibmanage/procfile",
+		"/Users/TruePath/Confs/profile",
+		"/Users/TruePath/Projects/bibmanage/app/views/references/_reference_table.html.erb",
+		"/Users/TruePath/Projects/bibmanage/app/assets/javascripts/raw_bibtex_entries.coffee",
+		"/Users/TruePath/Projects/bibmanage/app/models/bibtex_file.rb",
+		"/Users/TruePath/Projects/bibmanage/db/migrate/20150616141517_add_attachment_to_bibfiles.rb",
+		"/Users/TruePath/Projects/bibmanage/config/sidekiq.yml",
+		"/Users/TruePath/Projects/bibmanage/db/migrate/20150612043304_add_statuses_to_raw_bibtex_entries.rb",
+		"/Users/TruePath/Projects/bibmanage/db/migrate/20150616140540_create_bibfiles.rb",
+		"/Users/TruePath/Projects/bibmanage/db/migrate/20150616140032_create_bibtex_files.rb",
+		"/Users/TruePath/Projects/bibmanage/db/migrate/20150616135835_create_bibtex_file.rb",
+		"/opt/local/etc/redis.conf",
+		"/Users/TruePath/Projects/bibmanage/app/views/libraries/destroy.js.erb",
+		"/Users/TruePath/Projects/bibmanage/app/views/libraries/create.js.erb",
+		"/Users/TruePath/Projects/bibmanage/app/views/libraries/index.js.erb",
+		"/Users/TruePath/Projects/bibmanage/app/controllers/libraries_controller.rb",
+		"/Users/TruePath/Projects/bibmanage/app/views/references/destroy.js.erb",
+		"/Users/TruePath/Projects/bibmanage/app/views/references/_save.js.erb",
+		"/Users/TruePath/Projects/bibmanage/app/views/references/index.js.erb",
+		"/Users/TruePath/Projects/bibmanage/app/views/references/_reference.html.erb",
+		"/Users/TruePath/Projects/bibmanage/app/controllers/references_controller.rb",
+		"/Users/TruePath/Projects/bibmanage/app/views/libraries/show.js.erb",
+		"/Users/TruePath/Projects/bibmanage/app/views/libraries/show.html.js",
+		"/Users/TruePath/Projects/bibmanage/app/views/libraries/_library.html.erb",
+		"/Users/TruePath/Projects/bibmanage/app/views/references/_form_container.html.erb",
+		"/Users/TruePath/Projects/bibmanage/app/views/libraries/show.html.erb",
+		"/Users/TruePath/Projects/bibmanage/app/models/reference.rb",
+		"/Users/TruePath/Projects/bibmanage/config/settings.yml",
+		"/Users/TruePath/Projects/bibmanage/app/assets/stylesheets/references.scss",
+		"/Users/TruePath/Projects/bibmanage/gems/rails-bootstrap-forms/lib/bootstrap_form/form_builder.rb",
+		"/Users/TruePath/Projects/bibmanage/gems/rails-bootstrap-forms/test/bootstrap_form_group_test.rb",
+		"/usr/local/stow/bashlibs/bin/purgeable-ports",
+		"/Users/TruePath/Projects/bibmanage/gems/rails-bootstrap-forms/lib/bootstrap_form/helper.rb",
+		"/Users/TruePath/Projects/bibmanage/.bundle/config",
+		"/Users/TruePath/Projects/bibmanage/app/controllers/application_controller.rb",
+		"/Users/TruePath/Projects/bibmanage/app/views/references/new.html.erb",
+		"/Users/TruePath/Projects/bibmanage/app/views/references/index.html.erb",
+		"/Users/TruePath/Projects/bibmanage/app/views/references/_reference-table.html.erb",
+		"/Users/TruePath/Projects/bibmanage/app/assets/javascripts/references.coffee",
+		"/Users/TruePath/Projects/bibmanage/app/errors/not_authorized.rb",
+		"/Users/TruePath/Projects/bibmanage/db/migrate/20150607191736_add_index_and_description_to_persons.rb",
+		"/Users/TruePath/Projects/bibmanage/app/views/references/edit.js.erb",
+		"/Users/TruePath/Projects/bibmanage/app/models/field.rb",
+		"/Users/TruePath/Projects/bibmanage/app/views/references/_save_errors.html.erb",
+		"/Users/TruePath/Projects/bibmanage/app/global/errors.rb",
+		"/Users/TruePath/Projects/bibmanage/db/migrate/20150607191201_add_index_to_aliases.rb",
+		"/Users/TruePath/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/TruePath/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/TruePath/Projects/bibmanage/app/models/user.rb",
+		"/Users/TruePath/Projects/bibmanage/db/migrate/20150606050508_add_bibtex_type_and_year_and_counts_to_references.rb",
+		"/Users/TruePath/Projects/bibmanage/app/models/link.rb",
+		"/Users/TruePath/Projects/bibmanage/app/models/authorship_record.rb",
+		"/Users/TruePath/Projects/bibmanage/app/models/person.rb",
+		"/Users/TruePath/Projects/bibmanage/app/models/alias.rb",
+		"/Users/TruePath/Projects/bibmanage/app/models/resource.rb",
+		"/Users/TruePath/Projects/bibmanage/db/migrate/20150606050508_add_bibtex_type_and_doi_and_year_to_references.rb",
+		"/Users/TruePath/Projects/bibmanage/db/migrate/20150530223453_create_references.rb",
+		"/Users/TruePath/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/TruePath/Projects/bibmanage/app/views/layouts/_header.html.erb",
+		"/Users/TruePath/Projects/bibmanage/app/views/devise/registrations/edit.html.erb",
+		"/Users/TruePath/Library/Application Support/Sublime Text 3/Local/Session.sublime_session",
+		"/Users/TruePath/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/TruePath/Projects/bibmanage/app/controllers/registration_controller.rb",
+		"/Users/TruePath/Projects/bibmanage/app/views/devise/registrations/new.html.erb",
+		"/Users/TruePath/Projects/bibmanage/app/assets/stylesheets/bootstraply.css.scss",
+		"/Users/TruePath/Projects/bibmanage/config/initializers/devise.rb",
+		"/Users/TruePath/Projects/bibmanage/app/views/home/index.html.erb",
+		"/Users/TruePath/Projects/bibmanage/db/migrate/20150603083207_create_resources.rb",
+		"/Users/TruePath/Projects/bibmanage/db/migrate/20150603014735_create_resources.rb",
+		"/Users/TruePath/Projects/bibmanage/db/migrate/20150601110113_add_part_of_to_references.rb",
+		"/Users/TruePath/Projects/bibmanage/db/migrate/20150531164232_create_authorship_records.rb",
+		"/Users/TruePath/Projects/bibmanage/db/migrate/20150601080653_add_authorship_type_to_references.rb",
+		"/Users/TruePath/Projects/bibmanage/app/views/layouts/application.html.erb",
+		"/Users/TruePath/Projects/bibmanage/db/migrate/20150530200523_add_user_id_to_libraries.rb",
+		"/Users/TruePath/Projects/bibmanage/config/environments/production.rb"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/TruePath/Projects/bibmanage/",
+			"/Users/TruePath/Projects/bibmanage/gems/rails-bootstrap-forms/lib",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Message",
+			"Messages",
+			"init",
+			"error",
+			"(?<=[^ ])\\$",
+			"(?<=[ ])\\$",
+			"(?<=[ ])$",
+			"RefreshRawBibtexPage",
+			"pagination",
+			"references-body",
+			"#delete",
+			"horizontal",
+			"layout",
+			"block",
+			"layout",
+			"</td>",
+			"<th",
+			"th>",
+			"+f",
+			"replace",
+			"th",
+			"color",
+			"4",
+			"class=\"field\"",
+			"connect",
+			"Amy",
+			"indepen",
+			":",
+			"argpath",
+			"addscaled",
+			"Fortress Boo",
+			"register-delivered-command-set-logical-register",
+			"ctrl+f"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"warning",
+			"</math>",
+			"<math>",
+			"#delete-references",
+			" %></td>",
+			"<td",
+			"td>",
+			"class=\"form-group\"",
+			"Daphne",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 27.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "plotgame.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 107.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 668.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 427.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

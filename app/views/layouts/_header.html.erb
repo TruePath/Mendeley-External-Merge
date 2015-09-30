@@ -1,0 +1,41 @@
+<ul class="nav nav-pills">
+	<li role="presentation">
+		<%= link_to "Back", :back %>
+	</li>
+	<li role="presentation">
+		<%= link_to 'Home', root_path %>
+	</li>
+	<% if user_signed_in? %>
+		<li role="presentation">
+			<%= link_to 'Libraries', libraries_path %>
+		</li>
+		<li role="presentation">
+			<%= link_to 'Edit Profile', edit_user_registration_path %>
+		</li>
+		<li role="presentation">
+			<%= link_to 'Sign Out', destroy_user_session_path, method: :delete %>
+		</li>
+	<% else %>
+		<li role="presentation">
+			<%= link_to 'Log In', new_user_session_path %>
+		</li>
+		<li role="presentation">
+			<%= link_to 'Sign Up', new_user_registration_path %>
+		</li>
+	<% end %>
+</ul>
+
+<div id="flash-message" class="container">
+	<% flash.each do |name, msg| %>
+		<% case name %>
+		<% when :error %>
+			<%= content_tag(:div, msg, id: "flash_error", class: "alert alert-danger")%>
+		<% when :alert %>
+			<%= content_tag(:div, msg, id: "flash_alert", class: "alert alert-warning") %>
+		<% when :notice %>
+			<%= content_tag(:div, msg, id: "flash_notice", class: "alert alert-info") %>
+		<% else %>
+			<%= content_tag(:div, msg, id: "flash_success", class: "alert alert-success") %>
+		<% end %>
+	<% end %>
+</div>
